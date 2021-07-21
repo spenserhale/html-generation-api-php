@@ -36,7 +36,7 @@ class Html
      * @param string|null $href
      * @param string|null $contents
      *
-     * @return \SpenserHale\Html\Elements\I
+     * @return \SpenserHale\Html\Elements\A
      */
     public function a($href = null, $contents = null)
     {
